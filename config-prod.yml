@@ -1,0 +1,2 @@
+config:
+  prod, version=1
